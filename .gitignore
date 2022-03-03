@@ -1,4 +1,5 @@
 /.idea
 /Include
 /Scripts
+/Lib
 pyvenv.cfg
